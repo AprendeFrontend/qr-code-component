@@ -1,15 +1,7 @@
-## Medidas
-
-- Ancho: 300px
-- Alto: 405px
-- Padding de la tarjeta 16px.
-- Distancia entre elementos 16px.
-
-## Fuentes
-
-- Títulos: Inter - Bold - 19px
-- Texto: Inter - Regular - 16px
+## Fonts
 - https://fonts.google.com/specimen/Inter?query=inter
+- Bold
+- Regular
 
 ## Colores
 
