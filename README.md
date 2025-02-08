@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CSS**. Es ideal para dar tus primeros pasos en maquetación.
+Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CSS**, es ideal para dar tus primeros pasos en maquetación.
 
 ---
 
@@ -14,8 +14,7 @@ Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CS
 
 A continuación, puedes ver cómo debería lucir tu proyecto final (incluye capturas relevantes del diseño):
 
-![Vista en escritorio](./screenshots/desktop-view.png)
-![Vista en móvil](./screenshots/mobile-view.png)
+![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/qr-code-component/refs/heads/main/screenshots/qr-code.jpg)
 
 ---
 
