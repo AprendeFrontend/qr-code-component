@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Este reto consiste en replicar un diseño profesional utilizando **HTML**, **CSS** y **JavaScript**. Es ideal para practicar tus habilidades de maquetación, diseño responsivo y lógica de frontend.
+Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CSS**. Es ideal para dar tus primeros pasos en maquetación.
 
 ---
 
