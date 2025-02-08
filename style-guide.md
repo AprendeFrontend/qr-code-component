@@ -1,7 +1,7 @@
 ## Fonts
 - https://fonts.google.com/specimen/Inter?query=inter
-- Bold
 - Regular
+- Bold
 
 ## Colores
 
